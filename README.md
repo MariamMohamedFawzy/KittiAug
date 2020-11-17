@@ -1,6 +1,12 @@
 
 # KITTIAug
 
+## Installation
+
+```
+pip install kitti-aug
+```
+
 ## Usage
 ```
 
